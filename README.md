@@ -5,6 +5,7 @@ Python is a high-level programming language known for its simple and readable sy
 <img width="525" height="246" alt="image" src="https://github.com/user-attachments/assets/fd4fbbb2-5954-41d6-b6de-bd2281b3bb9e" />
 Figure 1: print function in python
 
+
 <img width="227" height="292" alt="image" src="https://github.com/user-attachments/assets/8fa38d8e-7de3-4745-b218-8a7b2a987a91" />
 Figure 2: Guido van Rossum
 
