@@ -2,7 +2,7 @@
 # PYTHON AND ITS USES IN ECONOMICS:
 Introduction: 
 Python is a high-level programming language known for its simple and readable syntax. It is widely used in education, business, and research because it allows users to focus on problem-solving rather than complex code.Python is an interpreted language and supports object-oriented programmingIt is easy to read and write and also offers extensive library support. It was developed by Guido van Rossum released in 1991 and was created to emphasize simplicity and clarity popular in academia and data-focused fields.
-<img width="807" height="230" alt="image" src="https://github.com/user-attachments/assets/baaf34c8-dd89-4744-80e5-fd3c08cc0434" />
+<img width="525" height="246" alt="image" src="https://github.com/user-attachments/assets/fd4fbbb2-5954-41d6-b6de-bd2281b3bb9e" />
 Figure 1: print function in python
 
 <img width="227" height="292" alt="image" src="https://github.com/user-attachments/assets/8fa38d8e-7de3-4745-b218-8a7b2a987a91" />
