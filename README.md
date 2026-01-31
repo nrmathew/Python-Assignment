@@ -1,9 +1,12 @@
 # Python-Assignment
 # PYTHON AND ITS USES IN ECONOMICS:
-Introduction: What is Python?
+Introduction: 
 Python is a high-level programming language known for its simple and readable syntax. It is widely used in education, business, and research because it allows users to focus on problem-solving rather than complex code.Python is an interpreted language and supports object-oriented programmingIt is easy to read and write and also offers extensive library support. It was developed by Guido van Rossum released in 1991 and was created to emphasize simplicity and clarity popular in academia and data-focused fields.
 <img width="807" height="230" alt="image" src="https://github.com/user-attachments/assets/baaf34c8-dd89-4744-80e5-fd3c08cc0434" />
 Figure 1: print function in python
+
+<img width="227" height="292" alt="image" src="https://github.com/user-attachments/assets/8fa38d8e-7de3-4745-b218-8a7b2a987a91" />
+Figure 2: Guido van Rossum
 
 # Uses of Python in Economics:
 - Python is widely used in economics because it allows economists to work efficiently with large amounts of numerical and statistical data. One of its most important uses is in the analysis of economic data collected from surveys, government databases, and international organizations. Python enables economists to clean raw data, organize it into structured formats, and perform calculations that help identify patterns, relationships, and trends. This is especially useful when dealing with variables such as income levels, inflation rates, employment statistics, or consumption patterns. By simplifying data handling and analysis, Python allows economists to focus more on interpretation and economic reasoning rather than technical complexity.
